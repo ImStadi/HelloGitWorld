@@ -19,7 +19,8 @@ public class Main
                 int x = sc.nextInt();
 
 
-                System.out.printf("Das ergebniss Lautet: ");
+                System.out.printf("Die Ergebnisse lauten: ");
+                System.out.println("Addition:");
                 System.out.println(x + i);
             }
             catch (Exception e)
