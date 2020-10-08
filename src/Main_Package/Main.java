@@ -19,9 +19,12 @@ public class Main
                 int x = sc.nextInt();
 
 
-                System.out.printf("Die Ergebnisse lauten: ");
+                System.out.printf("Die Ergebnisse lauten:%n%n ");
                 System.out.println("Addition:");
-                System.out.println(x + i);
+                System.out.println(i + x);
+                System.out.println("Subtraktion:");
+                System.out.println(i - x);
+
             }
             catch (Exception e)
             {
