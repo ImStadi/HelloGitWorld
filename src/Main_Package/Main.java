@@ -1,5 +1,9 @@
-package Main_Package;
+/************************
+ * @author Andre Stadler
+ * 8.10.2020
+ ***********************/
 
+package Main_Package;
 import java.util.Scanner;
 
 public class Main
@@ -22,6 +26,8 @@ public class Main
             {
                 System.out.printf("Fehler");
             }
+
+
 
 
         }
