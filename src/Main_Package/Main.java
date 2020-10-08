@@ -26,6 +26,8 @@ public class Main
                 System.out.println(i - x);
                 System.out.println("Division:");
                 System.out.println(i / x);
+                System.out.println("Multiplikation:");
+                System.out.println(i * x);
 
 
             }
