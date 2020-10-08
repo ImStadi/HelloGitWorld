@@ -24,6 +24,9 @@ public class Main
                 System.out.println(i + x);
                 System.out.println("Subtraktion:");
                 System.out.println(i - x);
+                System.out.println("Division:");
+                System.out.println(i / x);
+
 
             }
             catch (Exception e)
